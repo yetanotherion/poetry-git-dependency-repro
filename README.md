@@ -1,5 +1,4 @@
 # poetry-git-dependency-repro
-Project to show that renovate does not support git dependencies
 
 The current head has fastapi bumped on "0.95.0" when the version "0.95.1" is available.
 (See https://github.com/tiangolo/fastapi/releases)

@@ -1,6 +1,6 @@
 # poetry-git-dependency-repro
 
-The current head has fastapi bumped on "0.95.0" when the version "0.95.1" is [available](https://github.com/tiangolo/fastapi/releases)
+The current head has fastapi on *0.95.0* when the version *0.95.1* is [available](https://github.com/tiangolo/fastapi/releases)
 
 ```
 poetry update

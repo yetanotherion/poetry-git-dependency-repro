@@ -23,7 +23,7 @@ trio = ["trio (>=0.16,<0.22)"]
 
 [[package]]
 name = "fastapi"
-version = "0.95.0"
+version = "0.95.1"
 description = "FastAPI framework, high performance, easy to learn, fast to code, ready for production"
 category = "main"
 optional = false
@@ -44,8 +44,8 @@ test = ["anyio[trio] (>=3.2.1,<4.0.0)", "black (==23.1.0)", "coverage[toml] (>=6
 [package.source]
 type = "git"
 url = "ssh://git@github.com/tiangolo/fastapi.git"
-reference = "0.95.0"
-resolved_reference = "d666ccb62216e45ca78643b52c235ba0d2c53986"
+reference = "0.95.1"
+resolved_reference = "c81e136d75f5ac4252df740b35551cf2afb4c7f1"
 
 [[package]]
 name = "idna"
@@ -157,4 +157,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.11"
-content-hash = "a9fb2c824076ea7ec13dea9a22dc42cc20e138c365ce02fe752cb6dedd0a246f"
+content-hash = "547b4681d26a1c7cd0c638314da6e8e345569f5f8ed016cab5c16d89988dbc26"

@@ -8,7 +8,7 @@ packages = [{include = "poetry_git_dependency_repro"}]
 
 [tool.poetry.dependencies]
 python = "^3.11"
-fastapi = {git = "ssh://git@github.com/tiangolo/fastapi.git", tag="0.95.0"}
+fastapi = {git = "ssh://git@github.com/tiangolo/fastapi.git", tag="0.115.3"}
 
 [build-system]
 requires = ["poetry-core"]
